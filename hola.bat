@@ -1,5 +1,5 @@
 @echo off
-color 2
+color 4c
 echo HOLA MUNDO
 pause>nul
 exi
